@@ -1,0 +1,9 @@
+{
+  "welcome": "Vítejte v naší aplikaci",
+  "login": "Přihlásit se",
+  "logout": "Odhlásit se",
+  "save": "Uložit",
+  "cancel": "Zrušit",
+  "greeting": "Ahoj, {{name}}!",
+  "items_count": "V košíku máte {{count}} položek"
+}
